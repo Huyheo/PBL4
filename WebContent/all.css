@@ -1,0 +1,18 @@
+@charset "UTF-8";
+.topDiv {
+	border: 5px outset red;
+ 	background-color: lightblue;    
+  	text-align: center;
+}
+.centerDiv {
+	text-align: center;
+	padding: 2px;
+	margin: 15px;
+}
+.messDiv {
+	width: 400px;
+	text-align: center;
+}
+span {
+	margin: 5px;
+}
